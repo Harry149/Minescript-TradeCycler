@@ -16,7 +16,7 @@ A Minescript bot for Minecraft 1.21.11 that automatically cycles a librarian vil
 
 ## Setup
 
-> **Important:** It is strongly recommended to box your librarian in a small enclosed space (e.g. a corner with walls) with the lectern placed right next to them. The bot is **not tested for multiple villagers in close proximity** — if other villagers are nearby it may target the wrong one. Isolating your librarian removes this risk entirely.
+> **Important:** It is strongly recommended to box your librarian in a small enclosed space (e.g. a corner with walls) with the lectern placed right next to them. The bot is **not tested for multiple villagers in close proximity** — if other villagers are nearby it may target the wrong one. Isolating your librarian removes this risk entirely. (MAKE SURE BEFORE YOU RUN THE COMMAND THAT THE LECTERN IS NEXT TO THE VILLAGER / ALREADY PLACED)
 
 Place the lectern directly adjacent to the villager. The bot searches for a lectern within a **3 block radius** of the villager's position, so keep it close.
 
