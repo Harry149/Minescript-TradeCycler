@@ -49,17 +49,17 @@ If no axe is found in your hotbar (slots 1–9), it falls back to forcibly remov
 Run via the Minescript chat command:
 
 ```
-\librarian_enchant_cycle <enchant_name>
-\librarian_enchant_cycle <enchant_name> <level>
+\TradeCycler <enchant_name>
+\TradeCycler <enchant_name> <level>
 ```
 
 ### Examples
 
 ```
-\librarian_enchant_cycle mending
-\librarian_enchant_cycle sharpness 5
-\librarian_enchant_cycle unbreaking 3
-\librarian_enchant_cycle protection IV
+\TradeCycler mending
+\TradeCycler sharpness 5
+\TradeCycler unbreaking 3
+\TradeCycler protection IV
 ```
 
 Levels can be written as **numbers** (`5`) or **Roman numerals** (`V`).
