@@ -1,11 +1,3 @@
-"""
-Minescript bot for 1.21.x: Cycle librarian trades until the desired enchant appears.
-Usage: \\librarian_enchant_cycle ENCHANT_NAME
-Example: \\librarian_enchant_cycle mending
-
-Requires: Stand near a librarian villager with a lectern. Have a lectern in hotbar.
-Press Escape to stop the bot at any time.
-"""
 import sys
 import time
 import re
